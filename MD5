@@ -1,8 +1,9 @@
-29011b869a54cd352fbcb6b5db12b656 *DESCRIPTION
+aeea4fd6cf5876a015e04720b5ccc2f8 *DESCRIPTION
 44635a834108dbfee3063ae3501897fc *NAMESPACE
+2106f64313fd7a04113ec52051b4fdf8 *NEWS.md
 7f3c4c4a6bb7a74bbde366d10d8bf8c6 *R/RcppExports.R
 4a9ee5db69a8ca3b2867be87649f9fb2 *R/fle.R
-d674a10552c9341ff6a40ee91584b992 *R/miss_factor_est.R
+fc3c2ded2dc80c054bb2c4374670bc21 *R/miss_factor_est.R
 10e21a98a110231993585bdf838faf53 *R/miss_gen.R
 13a73096ca3c6a5cc08872ecd95e99cb *R/qMSE.R
 7a85eb7827a6ad4ff6fc8b6c1a9933bd *R/refold.R
@@ -13,7 +14,7 @@ b4d5c65eaebfd639c6b984834eb58c0f *R/ttm.R
 78cb04b6c150e907429915e4a91df9f0 *build/vignette.rds
 74200160cb64a09a015a84af025c14d4 *inst/doc/A-short-introduction-to-tensorMiss.R
 f47b7c6b6aa310e29821579d2726025b *inst/doc/A-short-introduction-to-tensorMiss.Rmd
-86d8094be17224bf8ad604a52a756106 *inst/doc/A-short-introduction-to-tensorMiss.html
+02bde12c9e8abf4152ad7ff8853cbd1a *inst/doc/A-short-introduction-to-tensorMiss.html
 bace2ead001085e4c8f897a96c5caf4f *man/fle.Rd
 0003659c971bf0d5f9e2d9448bace66d *man/miss_factor_est.Rd
 6088654fae42ece750baa6ec5c458be3 *man/miss_gen.Rd

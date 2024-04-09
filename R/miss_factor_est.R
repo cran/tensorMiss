@@ -175,7 +175,7 @@ miss_factor_est <- function(dt, r=0, delta=0.2){
       Y.imp <- ttm(F.est,  A1.est,2)
       Y.imp <- ttm(Y.imp, A2.est,3)
       Y.imp <- ttm(Y.imp, A3.est,4)
-      return(list(r=c(r1,r2), A=list(A1.est,A2.est), Ft=F.est, imputation=Y.imp, covMatrix=est_loading))
+      return(list(r=c(r1,r2,r3), A=list(A1.est,A2.est,A3.est), Ft=F.est, imputation=Y.imp, covMatrix=est_loading))
     }
   }
 }
